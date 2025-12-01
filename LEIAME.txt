@@ -1,0 +1,11 @@
+Aderson Ramires
+Linguagem: C++11
+
+[COMO FOI COMPILADO]:
+g++ AnalisadorLexicoProjeto.cpp -o AnalisadorLexico
+
+[ARQUIVOS]
+- AnalisadorLexicoC++.cpp: Código fonte principal.
+- Codigo.txt: Arquivo de teste básico (do enunciado).
+- Teste.txt: Arquivo de teste Total.
+- AnalisadorLexico: Programa que foi compilado no meu notebook usando linux.

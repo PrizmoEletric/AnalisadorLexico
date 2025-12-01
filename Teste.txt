@@ -1,0 +1,12 @@
+var int contador;
+var real media;
+
+contador = 10;
+media = 0.5;
+
+while (contador != 0) {
+    if (media >= 50.5) {
+        media = media - 1.0;
+    }
+    contador = contador - 1;
+}
