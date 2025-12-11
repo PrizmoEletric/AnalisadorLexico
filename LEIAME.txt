@@ -1,4 +1,3 @@
-Aderson Ramires
 Linguagem: C++11
 
 [COMO FOI COMPILADO]:
